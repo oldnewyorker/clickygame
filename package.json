@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "homepage":"https://oldnewyorker.github.io/clicky-game",
   "dependencies": {
-    "create-react-app": "^3.0.1"
+    "create-react-app": "^3.0.1",
+    "gh-pages": "^2.0.1",
+    "react-scripts": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "deploy": "gh-pages -d clicky-game"
   },
   "repository": {
     "type": "git",
