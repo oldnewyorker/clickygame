@@ -7,7 +7,7 @@
   "dependencies": {
     "create-react-app": "^3.0.1",
     "gh-pages": "^2.0.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {},
   "scripts": {
